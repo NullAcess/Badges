@@ -1,17 +1,3 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Andrey
-===============================================================================================================================
-
-About:
-------
-
-* 🌍  I'm based in Moscow
-* ✉️  Mail: [shvetsas25@st.ithub.ru](mailto:shvetsas25@st.ithub.ru)
-* ✉️  Telegram: [@csharp_intern](https://t.me/csharp_intern)
-* 🧠  I'm currently learning: Interface
-* 👥  I'm looking to collaborate on Low level projects
-  
-* 💬  I love programming, but I still don't love programming as much as I want to love it. I long for 16 hours of programming training per day.
-
 ### Skills
 
 <p align="left">
