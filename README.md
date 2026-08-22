@@ -1,4 +1,4 @@
-- My activity level dropped because I decided to change my learning approach. Now, I work on projects and focus on their architecture, only studying specific topics when I run into a problem. I also do some casual reading to learn new things. It’s 80% practice and 20% theory.
+- I have no enemies
 
 ### Skills
 
